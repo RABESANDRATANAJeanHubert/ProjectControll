@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@types/lodash": "^4.14.182",
     "morgan": "^1.10.0"
   }
 }
